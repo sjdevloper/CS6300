@@ -7,4 +7,4 @@
 - We discuss how the app works by calling different functions.
 - UI design and provide a prototype.
 
-#### My main job is to test the product is ready for use.
+#### My main job is to test if the product is ready for use.
