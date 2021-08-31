@@ -9,4 +9,4 @@
 
 #### My main job is to test if the product is ready for use.
 
-![image info](./img/UI.png)
+![image info](/img/UI.png)
