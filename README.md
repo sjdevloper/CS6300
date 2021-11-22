@@ -7,6 +7,7 @@
 - We discuss how the app works by calling different functions.
 - UI design and provide a prototype.
 
-#### My main job is to test if the product is ready for use.
+#### My final main job is to test if the product is ready for use.
 
-![image info](finalPresentation/img/UI_1.png)
+### DEMO
+![Drag Racing](UI_1.png)
