@@ -10,4 +10,4 @@
 #### My final main job is to test if the product is ready for use.
 
 ### DEMO
-![Drag Racing](UI_1.png)
+![ui](UI_1.png)
